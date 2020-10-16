@@ -1,6 +1,6 @@
 # fitness-hub
 
-##Setup Virtual env
+## Setup Virtual env
 
 `python3 -m venv env`
 
